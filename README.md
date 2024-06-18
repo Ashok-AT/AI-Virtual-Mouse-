@@ -38,23 +38,23 @@ The AI Virtual Mouse uses a web camera and image processing techniques to emulat
 Step 1: Create a new conda environment:
 ```bash
 conda create --name gest python=3.8.5
-
+```
 Step 2: Activate the conda environment:
 ```bash
 conda activate gest
-
+```
 Step 3: Install the required Python packages:
 ```bash
 pip install -r requirements.txt
-
+```
 Step 4: Navigate to the src directory:
 ```bash
 cd src
-
+```
 Step 5: Run the Virtual Mouse script:
 ```bash
 python Virtual_Mouse.py
-
+```
 ## Usage
  1. Ensure your web camera is connected and working.
  2. Activate the conda environment as mentioned above.
