@@ -14,7 +14,6 @@ _Video Link: [AI Virtual Mouse Demo](https://www.youtube.com/watch?v=ufm6tfgo-OA
   - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
@@ -39,3 +38,44 @@ The AI Virtual Mouse uses a web camera and image processing techniques to emulat
 Step 1: Create a new conda environment:
 ```bash
 conda create --name gest python=3.8.5
+
+Step 2: Activate the conda environment:
+```bash
+conda activate gest
+
+Step 3: Install the required Python packages:
+```bash
+pip install -r requirements.txt
+
+Step 4: Navigate to the src directory:
+```bash
+cd src
+
+Step 5: Run the Virtual Mouse script:
+```bash
+python Virtual_Mouse.py
+
+## Usage
+ 1. Ensure your web camera is connected and working.
+ 2. Activate the conda environment as mentioned above.
+ 3. Run the Virtual_Mouse.py script.
+ 4. Use hand gestures in front of the camera to control the mouse pointer.
+
+## Contributing
+Contributions are welcome! Please follow these steps:
+ 1. Fork the repository.
+ 2. Create a new branch (git checkout -b feature/your-feature).
+ 3. Make your changes.
+ 4. Commit your changes (git commit -m 'Add some feature').
+ 5. Push to the branch (git push origin feature/your-feature).
+ 6. Open a pull request.
+
+## Contact
+For any questions or suggestions, feel free to contact me.
+
+Youtube Channel: Proton
+Project Link: https://github.com/your-username/Virtual-Mouse
+sql
+Copy code
+
+
