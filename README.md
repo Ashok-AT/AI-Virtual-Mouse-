@@ -2,9 +2,8 @@
 
 A virtual mouse is software that allows users to give mouse inputs to a system without using an actual mouse. It can also be considered hardware because it uses an ordinary web camera. A virtual mouse can be operated with multiple input devices, including an actual mouse or a computer keyboard. This virtual mouse works with the help of different image processing techniques.
 
-_Youtube Channel Link: [Proton](https://www.youtube.com/channel/UCC2aiBrcvFHpb4Rve-eQFBg)_
 
-_Video Link: [AI Virtual Mouse Demo](https://www.youtube.com/watch?v=ufm6tfgo-OA&ab_channel=Proton)_
+_Video Link: [AI Virtual Mouse Demo](https://youtu.be/iGz1OWAVc-U)_
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -73,9 +72,7 @@ Contributions are welcome! Please follow these steps:
 ## Contact
 For any questions or suggestions, feel free to contact me.
 
-Youtube Channel: Proton
-Project Link: https://github.com/your-username/Virtual-Mouse
-sql
-Copy code
+Project Link: [https://github.com/your-username/Virtual-Mouse](https://github.com/Ashok-AT/AI-Virtual-Mouse-using-Hand-Gesture)
+
 
 
