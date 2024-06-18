@@ -72,7 +72,8 @@ Contributions are welcome! Please follow these steps:
 ## Contact
 For any questions or suggestions, feel free to contact me.
 
-Project Link: [https://github.com/your-username/Virtual-Mouse](https://github.com/Ashok-AT/AI-Virtual-Mouse-using-Hand-Gesture)
+Project Link: [Github](https://github.com/Ashok-AT/AI-Virtual-Mouse-using-Hand-Gesture)
+Contact: atashok27@gmail.com
 
 
 
